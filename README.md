@@ -36,9 +36,9 @@ This project is an AI-based medical image classification system that detects fou
 
 ---
 
-## 🧠 Grad-CAM Heatmap Example
+## 🧠 Report Example
 
-<img src="images/gradcam_example.png" alt="Grad-CAM" width="700"/>
+<img src="https://github.com/Rushikesh1912/Brain-Tumor-Detection/blob/main/Images/report.jpg" alt="Grad-CAM" width="700"/>
 
 ---
 
