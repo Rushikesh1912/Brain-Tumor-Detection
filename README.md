@@ -31,7 +31,7 @@ This project is an AI-based medical image classification system that detects fou
 
 ## 🧪 Sample GUI Preview
 
-<img src="images/gui%20screenshot.jpg" alt="GUI Preview" width="700"/>
+<img src="https://github.com/Rushikesh1912/Brain-Tumor-Detection/blob/main/Images/gui%20screenshot.jpg" alt="GUI Preview" width="700"/>
 
 
 ---
