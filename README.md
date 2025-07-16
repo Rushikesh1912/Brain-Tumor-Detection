@@ -46,5 +46,5 @@ This project is an AI-based medical image classification system that detects fou
 
 1. **Clone this repository**:
 ```bash
-git clone https://github.com/yourusername/brain-tumor-detection.git
+git clone https://github.com/Rushikesh1912/brain-tumor-detection.git
 cd brain-tumor-detection
